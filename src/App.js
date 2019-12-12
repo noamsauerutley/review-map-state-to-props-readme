@@ -30,6 +30,7 @@ class App extends Component {
           <p> c'mon, git</p>
           <p>bb plz</p>
           <p>😭</p>
+          <p>ok fine, be that way :(</p>
       </div>
     );
   }
