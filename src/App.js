@@ -26,6 +26,7 @@ class App extends Component {
             Click to change user count
           </button>
           <p>{this.props.items.length}</p>
+          <p> I can't get this lab to submit :\ so we're just adding a lil change here :)</p>
       </div>
     );
   }
