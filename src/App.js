@@ -28,6 +28,8 @@ class App extends Component {
           <p>{this.props.items.length}</p>
           <p> I can't get this lab to submit :\ so we're just adding a lil change here :)</p>
           <p> c'mon, git</p>
+          <p>bb plz</p>
+          <p>😭</p>
       </div>
     );
   }
